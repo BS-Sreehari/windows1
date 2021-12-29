@@ -1,0 +1,47 @@
+img {
+    height: 500px;
+}
+#welcome {
+    text-align: center;
+    background-color: 000B49;
+  height: 100%;
+}
+#welcome h1 {
+    color: F6D860;
+    font-family: 'Comic Neue', cursive;
+}
+#welcome a {
+    font-size: 50px;
+    font-family: 'Spline Sans', sans-serif;
+    color: FF7F3F;
+    text-decoration: none;
+}
+#home {
+    
+  background-color: 8843F2;
+  height: 100%;
+ width: 100%;   
+}
+#home img {
+    width: 100px;
+    height: 100px;
+}
+#home hr {
+   background-color: aqua; 
+}
+#shutdown {
+    text-align: center;
+   background-color: 0F0E0E;
+   
+} 
+
+   
+ 
+#off {
+    background-color: black;
+    
+}
+#train {
+    width: 200px;
+    height: 200px;
+}
